@@ -58,7 +58,7 @@ opencv-python numpy ultralytics cvzone
 
 Na mesma pasta do `main.py`, coloque:
 
-- ✅ O video que esta no arquivo de texto vid.txt precisa baixar no link `peoplecount1.mp4` (ou altere o nome no código)
+- ✅ O link do video esta no arquivo de texto: vid.txt, para fazer download do arquivo `peoplecount1.mp4`
 - ✅ Verifica se o modelo YOLO chamado `yolo11n.pt` esta já na pasta
 
 > Você pode baixar modelos da [Ultralytics](https://github.com/ultralytics/ultralytics) ou treinar o seu próprio.
